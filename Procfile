@@ -1,1 +1,1 @@
-worker: python dmass.py
+worker: node selfbot.js
